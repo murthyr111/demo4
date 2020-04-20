@@ -9,6 +9,6 @@ public class FirstIT {
     @Test
     public void initTest() {
         System.out.println("FirstIT");
-        assertTrue(First.truth());
+        assertTrue(First.truth1());
     }
 }
